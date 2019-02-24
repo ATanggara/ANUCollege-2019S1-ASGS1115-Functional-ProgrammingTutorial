@@ -39,11 +39,11 @@ False /= True
 True /= False
 ```
 
-* Composite Boolean Operations  
+1.4 Composite Boolean Operations  
 	XOR (only returns True when either ONE of the operands is True)  
 	Answer in GHCI shell!
 
-* Boolean Operator precedence
+1.5 Boolean Operator precedence
 ```
 True /= True && True
 True /= True || True
@@ -52,7 +52,7 @@ True /= True || True
 ### 2. Arithmetic Operations
 ------------------------
 
-Simple Operations
+2.1 Simple Operations
 ```
 5 + 7
 9 - 5
@@ -61,20 +61,20 @@ Simple Operations
 2^3
 ```
 
-(In)Equality Operations
+2.2 (In)Equality Operations
 ```
 3.14 < 4
 5.0 >= 4.999999999999999
 5.0 == 4.999999999999999
 ```
 	Is there any surprising result from any of the expression above?
-		How can we make it return the value we expected?
+	How can we make it return the value we expected?
 
-Arithmetic Operator precedence
-	Average these values: 4, 5, 6, 7, 8, 9!
-	i.e:
+2.3Arithmetic Operator precedence
+	Average these values: 4, 5, 6, 7, 8, 9!  
+	i.e:  
 	```
 	> 4+5+6+7+8+9 / 5
-	```
-		Will expression above give the average of the values? why?
+	```  
+		Will expression above give the average of the values? why?  
 		Try in the GHCI shell!
