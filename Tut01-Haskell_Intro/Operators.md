@@ -77,7 +77,7 @@ How can we make it return the value we expected?
 Average these values: 4, 5, 6, 7, 8, 9!  
 i.e:  
 ```
-> 4+5+6+7+8+9 / 5
+4+5+6+7+8+9 / 5
 ```  
 Will expression above give the average of the values? why?  
 Try in the GHCI shell!
