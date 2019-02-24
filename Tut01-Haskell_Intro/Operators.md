@@ -4,7 +4,7 @@
 Try to run provided expressions in GHCI shell,
 and run missing operations in your GHCI shell
 
-<br>
+&nbsp;
 ### 1. Boolean Operations
 ------------------------
 
@@ -40,8 +40,9 @@ True /= False
 ```
 
 1.4 Composite Boolean Operations  
-	XOR (only returns True when either ONE of the operands is True)  
-	Answer in GHCI shell!
+
+XOR (only returns True when either ONE of the operands is True)  
+Answer in GHCI shell!
 
 1.5 Boolean Operator precedence
 ```
@@ -49,7 +50,7 @@ True /= True && True
 True /= True || True
 ```
 
-<br>
+&nbsp;
 ### 2. Arithmetic Operations
 ------------------------
 
@@ -68,14 +69,15 @@ True /= True || True
 5.0 >= 4.999999999999999
 5.0 == 4.999999999999999
 ```
-	Is there any surprising result from any of the expression above?
-	How can we make it return the value we expected?
+Is there any surprising result from any of the expression above?
+How can we make it return the value we expected?
 
 2.3 Arithmetic Operator precedence  
-	Average these values: 4, 5, 6, 7, 8, 9!  
-	i.e:  
-	```
-	> 4+5+6+7+8+9 / 5
-	```  
-	Will expression above give the average of the values? why?  
-	Try in the GHCI shell!
+
+Average these values: 4, 5, 6, 7, 8, 9!  
+i.e:  
+```
+> 4+5+6+7+8+9 / 5
+```  
+Will expression above give the average of the values? why?  
+Try in the GHCI shell!
