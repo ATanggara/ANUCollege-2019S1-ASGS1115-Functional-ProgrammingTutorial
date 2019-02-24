@@ -1,8 +1,7 @@
 # VARIABLES, STRINGS, AND FUNCTIONS
 
 
-Try to run provided expressions in GHCI shell,
-and run missing operations in your GHCI shell
+Try running provided expressions below and writing your own expressions in the GHCI shell!
 
 &nbsp;
 ### 3. Variables
@@ -83,3 +82,16 @@ average x1 x2 x3 x4 x5
 ```
 Does it returning the value you expected?
 If it is not, try fixing it!
+
+
+&nbsp;
+### Some vocabularies:
+* Variables
+* String
+* Concatenation
+* Characters
+* Function
+* Library
+* Script
+* Argument / Parameter
+
