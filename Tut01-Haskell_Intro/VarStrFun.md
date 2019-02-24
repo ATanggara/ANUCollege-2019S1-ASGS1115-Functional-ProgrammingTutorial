@@ -1,8 +1,7 @@
 # VARIABLES, STRINGS, AND FUNCTIONS
 
 
-Try to run provided expressions in GHCI shell,
-and run missing operations in your GHCI shell
+Try running provided expressions below and writing your own expressions in the GHCI shell!
 
 &nbsp;
 ### 3. Variables
@@ -81,14 +80,14 @@ Run
 ```
 :l SumAvg'
 ```
-in GHCI shell. It loads two "self-defined" functions below, 's' and 'average':
+in GHCI shell. It loads two "self-defined" functions below, 's' and 'average' which are stored in SumAvg.hs script file:
 
-Sum of 5 values:
+* Sum of 5 values:
 ```
 s x1 x2 x3 x4 x5 = x1+x2+x3+x4+x5
 ```
 
-Average of 5 values:
+* Average of 5 values:
 ```
 average x1 x2 x3 x4 x5 = s x1 x2 x3 x4 x5 / 5
 ```
@@ -99,3 +98,16 @@ average x1 x2 x3 x4 x5
 ```
 Does it returning the value you expected?
 If it is not, try fixing it!
+
+
+&nbsp;
+### Some vocabularies:
+* Variables
+* String
+* Concatenation
+* Characters
+* Function
+* Library
+* Script
+* Argument / Parameter
+
