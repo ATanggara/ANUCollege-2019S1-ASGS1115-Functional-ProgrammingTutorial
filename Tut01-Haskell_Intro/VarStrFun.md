@@ -25,7 +25,7 @@ CArea = pi * (r^2)
 "Haskell" == "haskell"
 ```
 
-String Concatenation
+4.1 String Concatenation
 ```
 h = "haskell"
 hs = "has" ++ "kell"
@@ -34,10 +34,26 @@ hs = "has" ++ "kell"
 h == "has" ++ "kell"
 h == hs
 ```
+
+4.2 Append
+```
+'a':"haskell"
+```
+```
+hrev = "lleksa" ++ ((head h) : "")
+hrev2 = 'a':((head h) : "")
+```
+
+Modify expression assigned to 'hrev2' so that the following expression evaluates to True.  
+\*Use only ':' append operator!
+```
+hrev == hrev2
+```
+
 Try these expressions:
 ```
-> (h == "has") ++ "kell"
-> h == ("has" ++ "kell")
+(h == "has") ++ "kell"
+h == ("has" ++ "kell")
 ```
 What response does Haskell return? Why?
 
@@ -63,7 +79,7 @@ succ (succ (succ (succ (succ 10))))
 
 Run
 ```
-> :l SumAvg'
+:l SumAvg'
 ```
 in GHCI shell. It loads two "self-defined" functions below, 's' and 'average':
 
