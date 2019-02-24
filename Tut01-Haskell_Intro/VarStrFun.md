@@ -36,8 +36,8 @@ h == hs
 ```
 Try these expressions:
 ```
-> (h == "has") ++ "kell"
-> h == ("has" ++ "kell")
+(h == "has") ++ "kell"
+h == ("has" ++ "kell")
 ```
 What response does Haskell return? Why?
 
@@ -63,7 +63,7 @@ succ (succ (succ (succ (succ 10))))
 
 Run
 ```
-> :l SumAvg'
+:l SumAvg'
 ```
 in GHCI shell. It loads two "self-defined" functions below, 's' and 'average':
 
