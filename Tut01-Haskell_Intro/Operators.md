@@ -8,7 +8,7 @@ and run missing operations in your GHCI shell
 ### 1. Boolean Operations
 ------------------------
 
-Binary Boolean Operations
+1.1 Binary Boolean Operations
 ```
 True || True
 True || False
@@ -22,13 +22,13 @@ False && True
 False && False
 ```
 
-Unary Boolean Operations
+1.2 Unary Boolean Operations
 ```
 not True
 not False
 ```
 
-(In)Equality
+1.3 (In)Equality
 ```
 True == True
 True == False
@@ -39,11 +39,11 @@ False /= True
 True /= False
 ```
 
-Composite Boolean Operations
-	XOR (only returns True when either ONE of the operands is True)
+* Composite Boolean Operations  
+	XOR (only returns True when either ONE of the operands is True)  
 	Answer in GHCI shell!
 
-Boolean Operator precedence
+* Boolean Operator precedence
 ```
 True /= True && True
 True /= True || True
@@ -78,4 +78,3 @@ Arithmetic Operator precedence
 	```
 		Will expression above give the average of the values? why?
 		Try in the GHCI shell!
-		
