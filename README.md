@@ -1,4 +1,4 @@
-*** ASGS1115 - 2019S1 Tutorial Codes
+# ASGS1115 - 2019S1 Tutorial Codes
 
 These are tutorial codes for ASGS1115 Support for Science course at ANU College in Semester 1 2019.
 
