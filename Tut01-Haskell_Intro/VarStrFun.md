@@ -67,12 +67,12 @@ Run
 ```
 in GHCI shell. It loads two "self-defined" functions below, 's' and 'average' which are stored in SumAvg.hs script file:
 
-Sum of 5 values:
+* Sum of 5 values:
 ```
 s x1 x2 x3 x4 x5 = x1+x2+x3+x4+x5
 ```
 
-Average of 5 values:
+* Average of 5 values:
 ```
 average x1 x2 x3 x4 x5 = s x1 x2 x3 x4 x5 / 5
 ```
