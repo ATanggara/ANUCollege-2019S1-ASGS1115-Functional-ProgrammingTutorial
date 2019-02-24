@@ -53,7 +53,7 @@ True /= True || True
 ### 2. Arithmetic Operations
 ------------------------
 
-2.1 Simple Operations
+2.1 Simple Operations  
 ```
 5 + 7
 9 - 5
@@ -62,7 +62,7 @@ True /= True || True
 2^3
 ```
 
-2.2 (In)Equality Operations
+2.2 (In)Equality Operations  
 ```
 3.14 < 4
 5.0 >= 4.999999999999999
@@ -71,11 +71,11 @@ True /= True || True
 	Is there any surprising result from any of the expression above?
 	How can we make it return the value we expected?
 
-2.3Arithmetic Operator precedence
+2.3 Arithmetic Operator precedence  
 	Average these values: 4, 5, 6, 7, 8, 9!  
 	i.e:  
 	```
 	> 4+5+6+7+8+9 / 5
 	```  
-		Will expression above give the average of the values? why?  
-		Try in the GHCI shell!
+	Will expression above give the average of the values? why?  
+	Try in the GHCI shell!
