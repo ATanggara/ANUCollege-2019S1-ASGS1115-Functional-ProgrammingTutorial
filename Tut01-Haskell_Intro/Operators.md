@@ -4,7 +4,7 @@
 Try to run provided expressions in GHCI shell,
 and run missing operations in your GHCI shell
 
-<br><br>
+<br>
 ### 1. Boolean Operations
 ------------------------
 
@@ -49,7 +49,7 @@ True /= True && True
 True /= True || True
 ```
 
-<br><br>
+<br>
 ### 2. Arithmetic Operations
 ------------------------
 
