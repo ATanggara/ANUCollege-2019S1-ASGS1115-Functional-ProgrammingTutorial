@@ -65,7 +65,7 @@ Run
 ```
 :l SumAvg'
 ```
-in GHCI shell. It loads two "self-defined" functions below, 's' and 'average':
+in GHCI shell. It loads two "self-defined" functions below, 's' and 'average' which are stored in SumAvg.hs script file:
 
 Sum of 5 values:
 ```
