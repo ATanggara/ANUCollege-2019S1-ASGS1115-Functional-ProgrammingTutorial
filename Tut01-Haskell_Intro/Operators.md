@@ -1,8 +1,18 @@
 # VALUES AND OPERATORS
 
 
-Try to run provided expressions in GHCI shell,
-and run missing operations in your GHCI shell
+&nbsp;
+### 0. Getting Started
+------------------------
+
+Open your command line interface (e.g Terminal in Linux and Mac, and Command Prompt in Windows), change to the directory where this file is in and type:
+```
+ghci
+```
+
+You should now have GHCI shell open, and then see the prompt change to something like 'Prelude>' (depending on Operating System and Haskell version you are using).
+
+Next, you can try run provided expressions below and try writing your own expressions in your GHCI shell.
 
 &nbsp;
 ### 1. Boolean Operations
@@ -81,3 +91,11 @@ i.e:
 ```  
 Will expression above give the average of the values? why?  
 Try in the GHCI shell!
+
+&nbsp;
+### Vocabularies:
+* Command Line Interface (CLI)
+* Shell
+* Expression
+* Operator
+* Arity, Binary, and Unary
