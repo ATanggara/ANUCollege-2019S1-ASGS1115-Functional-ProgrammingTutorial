@@ -5,7 +5,8 @@ These are tutorial codes for ASGS1115 Support for Science course at ANU College 
 Following are topics and instructions for each week:
 
 ### 1. Introduction
-  Try running some Haskell expressions, first, from Operators.md, and then from VarStrFun.md in directory Tut01-Haskell_Intro/
+  Try running some Haskell expressions, first, from Operators.md, and then from VarStrFun.md.  
+  You should be able to find it in: [Tut01-Haskell_Intro/](https://github.com/ATanggara/ANUCollege-2019S1-ASGS1115-Tutorial/tree/master/Tut01-Haskell_Intro) directory.
 
 ### 2. Functions
 ### 3. Types and Typeclasses
