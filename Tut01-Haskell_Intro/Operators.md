@@ -5,7 +5,7 @@
 ### 0. Getting Started
 ------------------------
 
-Open your command line interface (e.g Terminal in Linux and Mac, and Command Prompt in Windows), change to the directory where this file is in and type:
+After getting [Haskell installed](https://www.accesscanberra.act.gov.au/app/answers/detail/a_id/1804/~/working-with-vulnerable-people-%28wwvp%29-registration), open your command line interface (e.g Terminal in Linux and Mac, and Command Prompt in Windows), change to the directory where this file is in and type:
 ```
 ghci
 ```
