@@ -5,7 +5,7 @@
 ### 0. Getting Started
 ------------------------
 
-After getting [Haskell installed](https://www.accesscanberra.act.gov.au/app/answers/detail/a_id/1804/~/working-with-vulnerable-people-%28wwvp%29-registration), open your command line interface (e.g Terminal in Linux and Mac, and Command Prompt in Windows), change to the directory where this file is in and type:
+After getting [Haskell installed](https://www.accesscanberra.act.gov.au/app/answers/detail/a_id/1804/~/working-with-vulnerable-people-%28wwvp%29-registration), open your command line interface (e.g Terminal in Linux and Mac, and Command Prompt in Windows), change to the directory where this file is in. Then to start Haskell, type:
 ```
 ghci
 ```
@@ -18,7 +18,7 @@ To quit Haskell shell in the command prompt, you can type in
 ```
 &nbsp;
 
-Next, open up the Haskell shell again if you quit form it, then you can try running the expressions provided in the next parts below and try writing your own expressions in your GHCI shell.
+Next, open up the Haskell shell again if you exit it, then you can try running the expressions provided in the next parts below and try writing your own expressions in your GHCI shell.
 
 &nbsp;
 ### 1. Boolean Operations
