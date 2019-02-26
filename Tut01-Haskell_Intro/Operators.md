@@ -12,7 +12,13 @@ ghci
 
 You should now have GHCI shell open, and then see the prompt change to something like 'Prelude>' (depending on Operating System and Haskell version you are using).
 
-Next, you can try run provided expressions below and try writing your own expressions in your GHCI shell.
+To quit Haskell shell in the command prompt, you can type in
+```
+:quit
+```
+&nbsp;
+
+Next, open up the Haskell shell again if you quit form it, then you can try running the expressions provided in the next parts below and try writing your own expressions in your GHCI shell.
 
 &nbsp;
 ### 1. Boolean Operations
